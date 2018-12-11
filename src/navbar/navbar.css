@@ -1,0 +1,45 @@
+.navbar {
+border-bottom: 1px solid #ebebeb;
+display: flex;
+}
+
+.navbar .button {
+height: 55px;
+background-color: #ffffff;
+color: #000000;
+border: none;
+font-family: 'Montserrat', sans-serif;
+font-size: 10px;
+font-weight: 300;
+padding: 0 11px;
+letter-spacing: 2px;
+
+
+}
+
+.navbar .button:hover {
+color: #eec7bc;
+}
+
+.navbar .navigation {
+padding-left: 30px;
+}
+
+.navbar .social-media {
+margin-left: auto;
+padding-right: 30px;
+}
+
+.navbar .social-media .button img {
+width: 20px;
+height: 20px;
+}
+
+.navbar .search {
+padding-right: 30px;
+}
+
+.navbar .search .button img {
+width: 20px;
+height: 20px;
+}
